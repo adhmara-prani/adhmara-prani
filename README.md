@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parthsarthy Saxena</h1>
-<h3 align="center">Currently pursuing Electrical Engineering from DTU. Looking to expand my domain in the field of AI and web development.</h3>
+<h3 align="center">Currently pursuing Electrical Engineering from DTU. Looking to expand my domain in the field of web development and AI.</h3>
 
 - 🔭 I’m currently working on **Full stack chat app**
 
