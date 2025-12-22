@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Parthsarthy Saxena a.k.a. adhmara-prani 👋</h1>
+<h1 align="left">Hi there, I'm Parthsarthy Saxena👋</h1>
 <h3 align="left">Looking to expand my domain in the field of Full Stack Web development and DevOps.<br> Interested in various technologies like Docker, Kubernetes and AWS.</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhmara-prani&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=merko)
