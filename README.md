@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Parthsarthy Saxena</h1>
-<h3 align="center">Currently pursuing Electrical Engineering from DTU. Looking to expand my domain in the field of web development and AI.</h3>
+<h3 align="center">Currently pursuing Electrical Engineering from DTU. Looking to expand my domain in the field of Full Stack Web development and DevOps. Interested in various technologies like Docker, Kubernetes and AWS.</h3>
 
-- 🔭 I’m currently working on **Full stack chat app**
+- 🌱 I’m currently learning **Devops (mainly Docker and Docker Compose)**
 
-- 🌱 I’m currently learning **ReactJs, State Management (Redux)**
-
-- 👯 I’m looking to collaborate on **E-waste management project**
-
-- 🤝 I’m looking for help with **E-waste management project**
+- 🤝 I’m looking for help with **Social Interactions and Networking (Help me plz XD)**
 
 - 📫 How to reach me **parth.saxena1021@gmail.com**
 
-- ⚡ Fun fact **I think I am Dante**
+- ⚡ Fun fact **I think I am Dante (JACKPOT)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
