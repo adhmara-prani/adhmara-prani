@@ -1,7 +1,12 @@
 <h1 align="left">Hi there, I'm Parthsarthy Saxena👋</h1>
 <h3 align="left">Looking to expand my domain in the field of Full Stack Web development and DevOps.<br> Interested in various technologies like Docker, Kubernetes and AWS.</h3>
+<img width="250" height="250" alt="nerd_car" src="https://github.com/user-attachments/assets/451d7dcd-adda-4f0a-9f8d-5ac46a0869f8" />
+<h4 align="left">Literally me while doing all this stuff 👆</h4>
+
+<h4>Know more about me right here! 👇</h4>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhmara-prani&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=merko)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/parthsarthy-saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthsarthy-saxena" height="30" width="40" /></a>
