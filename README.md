@@ -5,8 +5,6 @@
 
 <h4>Know more about me right here! 👇</h4>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhmara-prani&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=merko)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/parthsarthy-saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthsarthy-saxena" height="30" width="40" /></a>
